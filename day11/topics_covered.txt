@@ -1,0 +1,69 @@
+Topics covered so far
+===================
+io statements
+conditions
+pass continue break
+if elif else
+if else ladder
+------------------
+loops
+loops with break
+range functions
+series
+lists
+tuples
+string
+dictionary
+sets
+slicing
+functionalities of the ds
+Functions
+==============
+with parameter
+without parameter
+with return type
+without return type
+with multiple return type
+with default argument
+with multiple args
+with key values
+with keyword args
+Patterns
+=============
+almost everything
+Algorithms
+-------------
+Bubble sort
+insertion sort
+partial selection sort application
+linear search
+Binary search
+Programs array based
+-------------------
+matrix rotation
+leftshift
+rightshift
+insertion of element
+concatenation of array with
+Numeric
+----------------
+leftshift/right shift number
+armstrong
+fibonacci
+count
+reverse
+palindrome
+count of digits
+convert digits to number from string
+Datastructures concepts
+--------------------
+Stacks
+double sided stacks
+Games discussed:
+-----------------
+1) tic tac toe
+2) UP DOWN LEFT RIGHT arrow moments in matrix
+Projects completed
+=======================
+1) Board game
+2) Online shopping management
